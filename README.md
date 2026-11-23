@@ -19,8 +19,7 @@ Everything runs in your browser: your scans never leave it.
 ### [Open the live demo »](https://apiraces-hiberuscom.github.io/vnmap/)
 
 [Download the portable copy](https://github.com/apiraces-hiberuscom/vnmap/releases/latest) ·
-[Install it as an app](#install-it-as-an-app) ·
-[Español](README.es.md)
+[Install it as an app](#install-it-as-an-app)
 
 <br />
 
